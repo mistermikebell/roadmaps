@@ -8,7 +8,7 @@
     "serve:out": "serve out",
     "build": "./scripts/build.sh",
     "deploy": "NODE_DEBUG=gh-pages gh-pages -d out -t",
-    "start": "next start",
+    "start": "next start -p $PORT",
     "lint": "next lint",
     "meta:sitemap": "node scripts/sitemap.js",
     "meta:roadmaps": "node ./scripts/roadmaps-meta.js",
