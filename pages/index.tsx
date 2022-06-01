@@ -45,36 +45,16 @@ export default function Home(props: HomeProps) {
               fontSize={['22px', '22px', '28px']}
               mb={['8px', '8px', '15px']}
             >
-              Hey there! 👋
+              Тропинки 👋
             </Heading>
             <Text fontSize={['14px', '14px', '16px']} mb="10px">
               <Text fontWeight={500} as="span">
-                roadmap.sh
+                Тропинки
               </Text>{' '}
-              is a community effort to create roadmaps, guides and other
-              educational content to help guide the developers in picking up the
-              path and guide their learnings.
+              это пошаговые инструкции для развития стартапов. Здесь можно найти гайды на любые темы.
             </Text>
 
-            <Text fontSize={['14px', '14px', '16px']}>
-              We also have a{' '}
-              <Link
-                textDecoration={'underline'}
-                href={siteConfig.url.youtube}
-                onClick={() =>
-                  event({
-                    category: 'Subscription',
-                    action: 'Clicked the YouTube link',
-                    label: 'YouTube link on home',
-                  })
-                }
-                target="_blank"
-                fontWeight={600}
-              >
-                YouTube channel
-              </Link>{' '}
-              which we hope you are going to love.
-            </Text>
+          
           </Box>
           <SimpleGrid columns={[1, 2, 3]} spacing={['10px', '10px', '15px']}>
             {roadmaps.map((roadmap: RoadmapType, counter: number) => (
