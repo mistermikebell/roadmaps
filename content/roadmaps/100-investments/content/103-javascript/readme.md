@@ -1,4 +1,4 @@
-# JavaScript
+# Диван
 
 JavaScript allows you to add interactivity to your pages. Common examples that you may have seen on the websites are sliders, click interactions, popups and so on.
 
