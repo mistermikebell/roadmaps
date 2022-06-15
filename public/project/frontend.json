@@ -3657,7 +3657,7 @@
           "x": "564",
           "y": "439",
           "properties": {
-            "controlName": "100-internet"
+            "controlName": "100-bla"
           },
           "children": {
             "controls": {
@@ -3687,7 +3687,7 @@
                   "y": "23",
                   "properties": {
                     "size": "17",
-                    "text": "Internet",
+                    "text": "bla",
                     "bold": "true"
                   }
                 },
@@ -3738,7 +3738,7 @@
           "x": "152",
           "y": "443",
           "properties": {
-            "controlName": "101-internet:what-is-http"
+            "controlName": "101-bla:cash-in"
           },
           "children": {
             "controls": {
@@ -3768,7 +3768,7 @@
                   "y": "15",
                   "properties": {
                     "size": "17",
-                    "text": "What is HTTP?"
+                    "text": "Cash-in?"
                   }
                 },
                 {
@@ -3818,7 +3818,7 @@
           "x": "152",
           "y": "488",
           "properties": {
-            "controlName": "102-internet:browsers-and-how-they-work"
+            "controlName": "102-bla:cash-out"
           },
           "children": {
             "controls": {
@@ -3848,7 +3848,7 @@
                   "y": "16",
                   "properties": {
                     "size": "17",
-                    "text": "Browsers and how they work?"
+                    "text": "Cash out"
                   }
                 },
                 {
@@ -3887,246 +3887,7 @@
             }
           }
         },
-        {
-          "ID": "1404",
-          "typeID": "__group__",
-          "zOrder": "98",
-          "measuredW": "289",
-          "measuredH": "49",
-          "w": "289",
-          "h": "49",
-          "x": "875",
-          "y": "388",
-          "properties": {
-            "controlName": "103-internet:dns-and-how-it-works"
-          },
-          "children": {
-            "controls": {
-              "control": [
-                {
-                  "ID": "0",
-                  "typeID": "TextArea",
-                  "zOrder": "0",
-                  "w": "280",
-                  "h": "40",
-                  "measuredW": "200",
-                  "measuredH": "140",
-                  "x": "0",
-                  "y": "9",
-                  "properties": {
-                    "color": "16770457"
-                  }
-                },
-                {
-                  "ID": "1",
-                  "typeID": "Label",
-                  "zOrder": "1",
-                  "w": "179",
-                  "measuredW": "175",
-                  "measuredH": "25",
-                  "x": "51",
-                  "y": "17",
-                  "properties": {
-                    "size": "17",
-                    "text": "DNS and how it works?"
-                  }
-                },
-                {
-                  "ID": "2",
-                  "typeID": "Icon",
-                  "zOrder": "2",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "265",
-                  "y": "0",
-                  "properties": {
-                    "color": "16777215",
-                    "icon": {
-                      "ID": "circle",
-                      "size": "small"
-                    }
-                  }
-                },
-                {
-                  "ID": "3",
-                  "typeID": "Icon",
-                  "zOrder": "3",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "265",
-                  "y": "0",
-                  "properties": {
-                    "color": "10027263",
-                    "icon": {
-                      "ID": "check-circle",
-                      "size": "small"
-                    }
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "ID": "1405",
-          "typeID": "__group__",
-          "zOrder": "99",
-          "measuredW": "289",
-          "measuredH": "45",
-          "w": "289",
-          "h": "45",
-          "x": "874",
-          "y": "438",
-          "properties": {
-            "controlName": "104-internet:what-is-domain-name"
-          },
-          "children": {
-            "controls": {
-              "control": [
-                {
-                  "ID": "0",
-                  "typeID": "TextArea",
-                  "zOrder": "0",
-                  "w": "280",
-                  "h": "40",
-                  "measuredW": "200",
-                  "measuredH": "140",
-                  "x": "0",
-                  "y": "5",
-                  "properties": {
-                    "color": "16770457"
-                  }
-                },
-                {
-                  "ID": "1",
-                  "typeID": "Label",
-                  "zOrder": "1",
-                  "w": "189",
-                  "measuredW": "180",
-                  "measuredH": "25",
-                  "x": "51",
-                  "y": "13",
-                  "properties": {
-                    "size": "17",
-                    "text": "What is Domain Name?"
-                  }
-                },
-                {
-                  "ID": "2",
-                  "typeID": "Icon",
-                  "zOrder": "2",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "265",
-                  "y": "0",
-                  "properties": {
-                    "color": "16777215",
-                    "icon": {
-                      "ID": "circle",
-                      "size": "small"
-                    }
-                  }
-                },
-                {
-                  "ID": "3",
-                  "typeID": "Icon",
-                  "zOrder": "3",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "265",
-                  "y": "0",
-                  "properties": {
-                    "color": "10027263",
-                    "icon": {
-                      "ID": "check-circle",
-                      "size": "small"
-                    }
-                  }
-                }
-              ]
-            }
-          }
-        },
-        {
-          "ID": "1406",
-          "typeID": "__group__",
-          "zOrder": "100",
-          "measuredW": "288",
-          "measuredH": "46",
-          "w": "288",
-          "h": "46",
-          "x": "875",
-          "y": "483",
-          "properties": {
-            "controlName": "105-internet:what-is-hosting"
-          },
-          "children": {
-            "controls": {
-              "control": [
-                {
-                  "ID": "0",
-                  "typeID": "TextArea",
-                  "zOrder": "0",
-                  "w": "280",
-                  "h": "40",
-                  "measuredW": "200",
-                  "measuredH": "140",
-                  "x": "0",
-                  "y": "6",
-                  "properties": {
-                    "color": "16770457"
-                  }
-                },
-                {
-                  "ID": "1",
-                  "typeID": "Label",
-                  "zOrder": "1",
-                  "w": "133",
-                  "measuredW": "126",
-                  "measuredH": "25",
-                  "x": "74",
-                  "y": "14",
-                  "properties": {
-                    "size": "17",
-                    "text": "What is hosting?"
-                  }
-                },
-                {
-                  "ID": "2",
-                  "typeID": "Icon",
-                  "zOrder": "2",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "264",
-                  "y": "0",
-                  "properties": {
-                    "color": "16777215",
-                    "icon": {
-                      "ID": "circle",
-                      "size": "small"
-                    }
-                  }
-                },
-                {
-                  "ID": "3",
-                  "typeID": "Icon",
-                  "zOrder": "3",
-                  "measuredW": "24",
-                  "measuredH": "24",
-                  "x": "264",
-                  "y": "0",
-                  "properties": {
-                    "color": "10027263",
-                    "icon": {
-                      "ID": "check-circle",
-                      "size": "small"
-                    }
-                  }
-                }
-              ]
-            }
-          }
-        },
+        
         {
           "ID": "1407",
           "typeID": "__group__",
