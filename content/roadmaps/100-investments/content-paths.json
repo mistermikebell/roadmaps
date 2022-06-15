@@ -2,22 +2,5 @@
   "home": "/roadmaps/100-investments/content/readme.md",
   "bla": "/roadmaps/100-investments/content/100-bla/readme.md",
   "bla:cash-in": "/roadmaps/100-investments/content/100-bla/100-cash-in.md",
-  "bla:cash-out": "/roadmaps/100-investments/content/100-bla/101-cash-out.md",
-  "html": "/roadmaps/100-investments/content/101-html/readme.md",
-  "html:learn-the-basics": "/roadmaps/100-investments/content/101-html/100-learn-the-basics.md",
-  "html:writing-semantic-html": "/roadmaps/100-investments/content/101-html/101-writing-semantic-html.md",
-  "html:forms-and-validations": "/roadmaps/100-investments/content/101-html/102-forms-and-validations.md",
-  "html:conventions-and-best-practices": "/roadmaps/100-investments/content/101-html/103-conventions-and-best-practices.md",
-  "html:accessibility": "/roadmaps/100-investments/content/101-html/104-accessibility.md",
-  "html:seo-basics": "/roadmaps/100-investments/content/101-html/105-seo-basics.md",
-  "css": "/roadmaps/100-investments/content/102-css/readme.md",
-  "css:learn-the-basics": "/roadmaps/100-investments/content/102-css/100-learn-the-basics.md",
-  "css:making-layouts": "/roadmaps/100-investments/content/102-css/101-making-layouts.md",
-  "css:responsive-design-and-media-queries": "/roadmaps/100-investments/content/102-css/102-responsive-design-and-media-queries.md",
-  "javascript": "/roadmaps/100-investments/content/103-javascript/readme.md",
-  "javascript:syntax-and-basic-constructs": "/roadmaps/100-investments/content/103-javascript/100-syntax-and-basic-constructs.md",
-  "javascript:learn-dom-manipulation": "/roadmaps/100-investments/content/103-javascript/101-learn-dom-manipulation.md",
-  "javascript:learn-fetch-api-ajax-xhr": "/roadmaps/100-investments/content/103-javascript/102-learn-fetch-api-ajax-xhr.md",
-  "javascript:es6-and-modular-javascript": "/roadmaps/100-investments/content/103-javascript/103-es6-and-modular-javascript.md",
-  "javascript:concepts": "/roadmaps/100-investments/content/103-javascript/104-concepts.md"
+  "bla:cash-out": "/roadmaps/100-investments/content/100-bla/101-cash-out.md"
 }

@@ -73,7 +73,7 @@
                             "x": "794",
                             "y": "173",
                             "properties": {
-                                "controlName": "bla:cash-out"
+                                "controlName": "100-bla:cash-out"
                             },
                             "children": {
                                 "controls": {
