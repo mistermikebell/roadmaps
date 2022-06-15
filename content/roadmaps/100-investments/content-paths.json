@@ -1,8 +1,8 @@
 {
   "home": "/roadmaps/100-investments/content/readme.md",
-  "Определить-назначение-сделки": "/roadmaps/100-investments/content/100-Определить-назначение-сделки/readme.md",
-  "Определить-назначение-сделки:Cash-in": "/roadmaps/100-investments/content/100-Определить-назначение-сделки/100-Cash-in.md",
-  "Определить-назначение-сделки:Cash-out": "/roadmaps/100-investments/content/100-Определить-назначение-сделки/101-Cash-out.md",
+  "bla": "/roadmaps/100-investments/content/100-bla/readme.md",
+  "bla:cash-in": "/roadmaps/100-investments/content/100-bla/100-cash-in.md",
+  "bla:cash-out": "/roadmaps/100-investments/content/100-bla/101-cash-out.md",
   "html": "/roadmaps/100-investments/content/101-html/readme.md",
   "html:learn-the-basics": "/roadmaps/100-investments/content/101-html/100-learn-the-basics.md",
   "html:writing-semantic-html": "/roadmaps/100-investments/content/101-html/101-writing-semantic-html.md",
