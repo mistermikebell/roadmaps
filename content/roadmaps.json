@@ -41,12 +41,12 @@
     },
     "featured": true,
     "imageUrl": "/roadmaps/frontend.png",
-    "jsonUrl": "/project/frontend.json",
-    "resourcesPath": "/roadmaps/100-investments/resources.md",
+    "jsonUrl": "/project/bla.json",
+    "resourcesPath": "/roadmaps/100-bla/resources.md",
     "pdfUrl": "https://kamranahmedse.gumroad.com/l/frontend-roadmap",
-    "contentPathsFilePath": "/roadmaps/100-investments/content-paths.json",
-    "id": "frontend",
-    "metaPath": "/roadmaps/100-investments/meta.json",
+    "contentPathsFilePath": "/roadmaps/100-bla/content-paths.json",
+    "id": "bla",
+    "metaPath": "/roadmaps/100-bla/meta.json",
     "isUpcoming": false
   }
 ]
