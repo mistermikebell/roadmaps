@@ -34,10 +34,10 @@ export function NewAlertBanner() {
         colorScheme="red"
         variant="solid"
       >
-        New
+        Новое
       </Badge>
       <Text textDecoration="underline" as="span" d={['none', 'inline']}>
-        Roadmap topics to be covered on our YouTube Channel
+        Теперь есть тропинка по открытию юридического лица в США!
       </Text>
       <Text textDecoration="underline" as="span" d={['inline', 'none']}>
         Topic videos being made on YouTube

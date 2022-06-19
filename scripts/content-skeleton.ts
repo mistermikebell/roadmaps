@@ -35,15 +35,8 @@ type RoadmapType = {
 };
 
 const roadmaps: Record<string, RoadmapType> = {
-  frontend: require('../public/project/frontend.json'),
-  backend: require('../public/project/backend.json'),
-  devops: require('../public/project/devops.json'),
-  android: require('../public/project/android.json'),
-  golang: require('../public/project/golang.json'),
-  java: require('../public/project/java.json'),
-  python: require('../public/project/python.json'),
-  react: require('../public/project/react.json'),
-  angular: require('../public/project/angular.json'),
+  investments: require('../public/project/investments.json'),
+  backend: require('../public/project/backend.json')
 };
 
 if (!roadmapKey || !roadmaps[roadmapKey]) {

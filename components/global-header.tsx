@@ -27,14 +27,14 @@ function DesktopMenuLinks() {
   return (
     <Stack d={['none', 'flex', 'flex']} shouldWrapChildren isInline spacing='15px' alignItems='center' color='gray.50'
            fontSize='15px'>
-      <MenuLink text={'Roadmaps'} link={'/roadmaps'} />
-      <MenuLink text={'Guides'} link={'/guides'} />
-      <MenuLink text={'Videos'} link={'/watch'} />
-      <MenuLink text={'Thanks'} link={'/thanks'} />
+      <MenuLink text={'Список'} link={'/roadmaps'} />
+      <MenuLink text={'Курс'} link={'/guides'} />
+      <MenuLink text={'Видео'} link={'/watch'} />
+      <MenuLink text={'Благодарности'} link={'/thanks'} />
 
       <Link ml='10px' bgGradient='linear(to-l, yellow.700, red.600)' p='7px 10px' rounded='4px'
             _hover={{ textDecoration: 'none', bgGradient: 'linear(to-l, red.800, yellow.700)' }}
-            fontWeight={500} href={'/signup'}>Subscribe</Link>
+            fontWeight={500} href={'/signup'}>Подписаться</Link>
     </Stack>
   );
 }
@@ -78,7 +78,7 @@ function MobileMenuLinks() {
           <Link href='/guides'>Guides</Link>
           <Link href='/watch'>Videos</Link>
           <Link href='/thanks'>Thanks</Link>
-          <Link href='/signup'>Subscribe</Link>
+          <Link href='/signup'>Подписаться</Link>
           <CloseButton onClick={() => setIsOpen(false)} pos='fixed' top='40px' right='15px' size='lg' />
         </Stack>
       )}
@@ -107,7 +107,7 @@ export function GlobalHeader(props: GlobalHeaderProps) {
                   _hover={{ textDecoration: 'none' }}
                   fontSize='18px'>
               <RoadmapLogo style={{ height: '30px', width: '30px', marginRight: '10px' }} />
-              <Text d={['block', 'none', 'block']} as='span'>roadmap.sh</Text>
+              <Text d={['block', 'none', 'block']} as='span'>Тропинки</Text>
             </Link>
           </Box>
           <DesktopMenuLinks />

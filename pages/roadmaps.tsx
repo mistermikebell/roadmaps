@@ -20,13 +20,13 @@ export default function Roadmaps(props: RoadmapsProps) {
     <Box bg='white' minH='100vh'>
       <GlobalHeader />
       <Helmet
-        title={'Developer Roadmaps'}
+        title={'Тропинки'}
         description={'Step by step guides and paths to learn different tools or technologies'}
       />
       <Box mb='60px'>
         <PageHeader
           beforeTitle={<NewAlertBanner />}
-          title={'Developer Roadmaps'}
+          title={'Тропинки'}
           subtitle={'Step by step guides and paths to learn different tools or technologies'}
         />
         <Container maxW='container.md' position='relative'>

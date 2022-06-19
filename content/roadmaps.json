@@ -1,8 +1,8 @@
 [
   {
     "seo": {
-      "title": "Frontend Developer Roadmap: Learn to become a modern frontend developer",
-      "description": "Learn to become a modern frontend developer using this roadmap. Community driven, articles, resources, guides, interview questions, quizzes for modern frontend development.",
+      "title": "Венчурные инвестиции глазами юриста",
+      "description": "Пошаговая инструкция, как делать сделки в 2022",
       "keywords": [
         "javascript roadmap 2022",
         "frontend roadmap 2022",
@@ -31,22 +31,162 @@
         "frontend developer interview questions"
       ]
     },
-    "title": "Инвестиции в стартап",
-    "description": "Пошаговый гайд поднятия инвестиций в стартап в 2022 году",
-    "featuredTitle": "Инвестиции",
-    "featuredDescription": "Пошаговый гайд поднятия инвестиций в стартап в 2022 году",
+    "title": "Венчурные инвестиции глазами юриста",
+    "description": "Пошаговая инструкция, как делать сделки в 2022",
+    "featuredTitle": "Венчурные инвестиции глазами юриста",
+    "featuredDescription": "Пошаговая инструкция, как делать сделки в 2022",
     "author": {
-      "name": "MV",
+      "name": "",
       "url": ""
     },
     "featured": true,
     "imageUrl": "/roadmaps/frontend.png",
-    "jsonUrl": "/project/bla.json",
-    "resourcesPath": "/roadmaps/100-bla/resources.md",
+    "jsonUrl": "/project/investments.json",
+    "resourcesPath": "/roadmaps/100-investments/resources.md",
     "pdfUrl": "https://kamranahmedse.gumroad.com/l/frontend-roadmap",
-    "contentPathsFilePath": "/roadmaps/100-bla/content-paths.json",
-    "id": "bla",
-    "metaPath": "/roadmaps/100-bla/meta.json",
+    "contentPathsFilePath": "/roadmaps/100-investments/content-paths.json",
+    "id": "investments",
+    "metaPath": "/roadmaps/100-investments/meta.json",
     "isUpcoming": false
+  },
+  {
+    "seo": {
+      "title": "Как открыть юрлицо в США",
+      "description": "Пошаговая инструкция, как начать бизнес в Штатах в 2022",
+      "keywords": [
+        "backend roadmap 2022",
+        "backend developer roadmap 2022",
+        "guide to becoming a developer",
+        "guide to becoming a backend developer",
+        "backend roadmap",
+        "backend developer",
+        "backend engineer",
+        "backend skills",
+        "backend development",
+        "javascript developer",
+        "backend development skills",
+        "backend development skills test",
+        "backend engineer roadmap",
+        "backend developer roadmap",
+        "become a backend developer",
+        "backend developer career path",
+        "javascript developer",
+        "modern javascript developer",
+        "node developer",
+        "skills for backend development",
+        "learn backend development",
+        "what is backend development",
+        "backend developer quiz",
+        "backend developer interview questions"
+      ]
+    },
+    "title": "Как открыть юрлицо в США",
+    "description": "Пошаговая инструкция, как начать бизнес в Штатах в 2022",
+    "featuredTitle": "Как открыть юрлицо в США",
+    "featuredDescription": "Пошаговая инструкция, как начать бизнес в Штатах в 2022",
+    "featured": true,
+    "imageUrl": "/roadmaps/backend.png",
+    "jsonUrl": "/project/backend.json",
+    "resourcesPath": "/roadmaps/101-backend/resources.md",
+    "author": {
+      "name": "Kamran Ahmed",
+      "url": "https://twitter.com/kamranahmedse"
+    },
+    "pdfUrl": "https://kamranahmedse.gumroad.com/l/backend-roadmap",
+    "contentPathsFilePath": "/roadmaps/101-backend/content-paths.json",
+    "id": "backend",
+    "metaPath": "/roadmaps/101-backend/meta.json",
+    "isUpcoming": false
+  },
+  {
+    "seo": {
+      "title": "Экономия на налогах",
+      "description": "Пошаговая инструкция, как экономить в компании с выручкой меньше 500 млн р в 2022",
+      "keywords": [
+        "devops roadmap 2022",
+        "sre roadmap 2022",
+        "operations roadmap 2022",
+        "guide to becoming a devops enginer",
+        "devops roadmap",
+        "sre roadmap",
+        "site reliability engineer roadmap",
+        "operations roles",
+        "become devops",
+        "devops skills",
+        "modern devops skills",
+        "devops skills test",
+        "skills for devops",
+        "learn devops",
+        "what is devops",
+        "what is sre",
+        "devops quiz",
+        "devops interview questions"
+      ]
+    },
+    "title": "Экономия на налогах",
+    "description": "Пошаговая инструкция, как экономить в компании с выручкой меньше 500 млн р в 2022",
+    "featuredTitle": "Экономия на налогах",
+    "featuredDescription": "Пошаговая инструкция, как экономить в компании с выручкой меньше 500 млн р в 2022",
+    "featured": true,
+    "imageUrl": "/roadmaps/devops.png",
+    "jsonUrl": "/project/devops.json",
+    "resourcesPath": "/roadmaps/102-devops/resources.md",
+    "versions": [
+      "latest",
+      "2018",
+      "2017"
+    ],
+    "author": {
+      "name": "Kamran Ahmed",
+      "url": "https://twitter.com/kamranahmedse"
+    },
+    "pdfUrl": "https://kamranahmedse.gumroad.com/l/devops-roadmap",
+    "id": "devops",
+    "metaPath": "/roadmaps/102-devops/meta.json",
+    "isUpcoming": false
+  },
+  {
+    "seo": {
+      "title": "Войти в IT-реестр",
+      "description": "Пошаговая инструкция как стать IT-компанией и получить льготы в 2022",
+      "keywords": [
+        "react roadmap 2022",
+        "react developer roadmap 2022",
+        "guide to becoming a react developer",
+        "react developer roadmap",
+        "react roadmap",
+        "become react developer",
+        "react developer skills",
+        "react skills test",
+        "skills for react development",
+        "learn react development",
+        "what is react",
+        "react quiz",
+        "react interview questions"
+      ]
+    },
+    "title": "Войти в IT-реестр",
+    "description": "Пошаговая инструкция как стать IT-компанией и получить льготы в 2022",
+    "featuredTitle": "Войти в IT-реестр",
+    "featuredDescription": "Пошаговая инструкция как стать IT-компанией и получить льготы в 2022",
+    "isTextHeavy": false,
+    "isCommunity": false,
+    "featured": true,
+    "landingPath": "/roadmaps/103-react/landscape.md",
+    "resourcesPath": "/roadmaps/103-react/resources.md",
+    "jsonUrl": "/project/react.json",
+    "versions": [
+      "latest",
+      "2018",
+      "2017"
+    ],
+    "author": {
+      "name": "Kamran Ahmed",
+      "url": "https://twitter.com/kamranahmedse"
+    },
+    "pdfUrl": "https://kamranahmedse.gumroad.com/l/react-roadmap",
+    "id": "react",
+    "metaPath": "/roadmaps/103-react/meta.json",
+    "isUpcoming": true
   }
 ]

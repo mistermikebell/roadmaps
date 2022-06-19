@@ -42,5 +42,5 @@ export function getFeaturedRoadmaps(): RoadmapType[] {
 }
 
 export function isInteractiveRoadmap(id: string): boolean {
-  return ['bla'].includes(id);
+  return ['investments', 'backend'].includes(id);
 }

@@ -1,0 +1,3472 @@
+{
+  "mockup": {
+      "controls": {
+        "control": [
+            {
+                "ID": "26",
+                "typeID": "Arrow",
+                "zOrder": "30",
+                "w": "183",
+                "h": "61",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "1018",
+                "y": "228",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "p0": {
+                        "x": 0,
+                        "y": 61
+                    },
+                    "p1": {
+                        "x": 0.5430277013884229,
+                        "y": -0.0616406197598766
+                    },
+                    "p2": {
+                        "x": 183,
+                        "y": 0
+                    },
+                    "color": "10470904"
+                }
+            },
+            {
+                "ID": "41",
+                "typeID": "Arrow",
+                "zOrder": "37",
+                "w": "163",
+                "h": "62",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "562",
+                "y": "227",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "p0": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "p1": {
+                        "x": 0.5430277013884228,
+                        "y": -0.06164061975987654
+                    },
+                    "p2": {
+                        "x": 163,
+                        "y": 62
+                    },
+                    "color": "10470904"
+                }
+            },
+            {
+                "ID": "58",
+                "typeID": "Arrow",
+                "zOrder": "36",
+                "w": "203",
+                "h": "42",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "550",
+                "y": "419",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "p0": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "p1": {
+                        "x": 0.5430277013884227,
+                        "y": -0.06164061975987663
+                    },
+                    "p2": {
+                        "x": 203,
+                        "y": 41
+                    },
+                    "color": "10470904",
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "59",
+                "typeID": "Arrow",
+                "zOrder": "29",
+                "w": "205",
+                "h": "39",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "558",
+                "y": "470",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "p0": {
+                        "x": -0.1686080000000061,
+                        "y": 39.31903600000004
+                    },
+                    "p1": {
+                        "x": 0.5430277013884228,
+                        "y": -0.0616406197598765
+                    },
+                    "p2": {
+                        "x": 205,
+                        "y": 0
+                    },
+                    "color": "10470904",
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "60",
+                "typeID": "Arrow",
+                "zOrder": "55",
+                "w": "152",
+                "h": "38",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "1048",
+                "y": "421",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "p0": {
+                        "x": -0.1686080000000061,
+                        "y": 38.31903600000004
+                    },
+                    "p1": {
+                        "x": 0.5430277013884228,
+                        "y": -0.06164061975987647
+                    },
+                    "p2": {
+                        "x": 152.12753400000008,
+                        "y": -0.026529999999979736
+                    },
+                    "color": "10470904",
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "61",
+                "typeID": "Arrow",
+                "zOrder": "25",
+                "w": "165",
+                "h": "27",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "558",
+                "y": "638",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "p0": {
+                        "x": -0.1686080000000061,
+                        "y": 0.3190360000000396
+                    },
+                    "p1": {
+                        "x": 0.5430277013884227,
+                        "y": -0.06164061975987652
+                    },
+                    "p2": {
+                        "x": 164.583934,
+                        "y": 25.13298800000007
+                    },
+                    "color": "10470904",
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "62",
+                "typeID": "Arrow",
+                "zOrder": "26",
+                "w": "88",
+                "h": "60",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "633",
+                "y": "669",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "p0": {
+                        "x": 0.04450900000000502,
+                        "y": 59.79523300000005
+                    },
+                    "p1": {
+                        "x": 0.5430277013884225,
+                        "y": -0.061640619759876523
+                    },
+                    "p2": {
+                        "x": 88.39007500000002,
+                        "y": 0.10228300000005675
+                    },
+                    "color": "10470904",
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "63",
+                "typeID": "Arrow",
+                "zOrder": "27",
+                "w": "75",
+                "h": "45",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "1018",
+                "y": "622",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "p0": {
+                        "x": 0.04450900000000502,
+                        "y": 44.79523300000005
+                    },
+                    "p1": {
+                        "x": 0.5430277013884225,
+                        "y": -0.06164061975987649
+                    },
+                    "p2": {
+                        "x": 74.68022400000007,
+                        "y": -0.458217999999988
+                    },
+                    "color": "10470904",
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "64",
+                "typeID": "Arrow",
+                "zOrder": "0",
+                "w": "179",
+                "h": "35",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "1020",
+                "y": "674",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "p0": {
+                        "x": -0.14517499999999472,
+                        "y": 0.071578000000045
+                    },
+                    "p1": {
+                        "x": 0.5430277013884224,
+                        "y": -0.06164061975987663
+                    },
+                    "p2": {
+                        "x": 178.9336750000001,
+                        "y": 33.499630000000025
+                    },
+                    "color": "10470904",
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "65",
+                "typeID": "Arrow",
+                "zOrder": "24",
+                "w": "158",
+                "h": "62",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "551",
+                "y": "1079",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": 0.12571600000001126,
+                        "y": -0.4444139999999379
+                    },
+                    "p1": {
+                        "x": 0.5430277013884225,
+                        "y": -0.06164061975987651
+                    },
+                    "p2": {
+                        "x": 158.19621600000005,
+                        "y": 62.037237000000005
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "66",
+                "typeID": "Arrow",
+                "zOrder": "56",
+                "w": "161",
+                "h": "60",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "560",
+                "y": "915",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "p0": {
+                        "x": 0.04450900000000502,
+                        "y": 59.79523300000005
+                    },
+                    "p1": {
+                        "x": 0.5430277013884224,
+                        "y": -0.061640619759876454
+                    },
+                    "p2": {
+                        "x": 161.39007500000002,
+                        "y": 0.23109600000009323
+                    },
+                    "color": "10470904",
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "67",
+                "typeID": "Arrow",
+                "zOrder": "45",
+                "w": "134",
+                "h": "39",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "1021",
+                "y": "872",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "p0": {
+                        "x": 0.048684000000093874,
+                        "y": 39.649519000000055
+                    },
+                    "p1": {
+                        "x": 0.5430277013884224,
+                        "y": -0.061640619759876475
+                    },
+                    "p2": {
+                        "x": 134.39007500000002,
+                        "y": 0.23109600000009323
+                    },
+                    "color": "10470904",
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "68",
+                "typeID": "Arrow",
+                "zOrder": "35",
+                "w": "82",
+                "h": "214",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "844",
+                "y": "221",
+                "properties": {
+                    "curvature": "0",
+                    "color": "13421772",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "p0": {
+                        "x": -0.45222499999999854,
+                        "y": -0.44131699999999796
+                    },
+                    "p1": {
+                        "x": 0.5513308759377391,
+                        "y": 0.1838225898567844
+                    },
+                    "p2": {
+                        "x": 65.97400900000002,
+                        "y": 213.422598
+                    }
+                }
+            },
+            {
+                "ID": "69",
+                "typeID": "Arrow",
+                "zOrder": "31",
+                "w": "24",
+                "h": "200",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "872",
+                "y": "475",
+                "properties": {
+                    "p0": {
+                        "x": 17.547775,
+                        "y": -0.44131699999999796
+                    },
+                    "p1": {
+                        "x": 0.6078561347625535,
+                        "y": -0.10676086924054591
+                    },
+                    "p2": {
+                        "x": 24.077571000000034,
+                        "y": 199.225103
+                    },
+                    "curvature": "0",
+                    "color": "13421772",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "70",
+                "typeID": "Arrow",
+                "zOrder": "32",
+                "w": "30",
+                "h": "213",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "883",
+                "y": "688",
+                "properties": {
+                    "p0": {
+                        "x": 21.547775,
+                        "y": -0.44131699999999796
+                    },
+                    "p1": {
+                        "x": 0.6060108583513446,
+                        "y": 0.09516232484751731
+                    },
+                    "p2": {
+                        "x": -0.05487799999991694,
+                        "y": 213.058313
+                    },
+                    "curvature": "0",
+                    "color": "13421772",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "191",
+                "typeID": "__group__",
+                "zOrder": "42",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "1200",
+                "y": "398",
+                "properties": {
+                    "controlName": "101-investor:entity"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "w": "116",
+                                "measuredW": "65",
+                                "measuredH": "25",
+                                "x": "12",
+                                "y": "8",
+                                "properties": {
+                                    "text": "Юрлицо",
+                                    "size": "17",
+                                    "align": "center"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "192",
+                "typeID": "__group__",
+                "zOrder": "49",
+                "measuredW": "284",
+                "measuredH": "40",
+                "w": "284",
+                "h": "40",
+                "x": "1055",
+                "y": "598",
+                "properties": {
+                    "controlName": "102-type:equity"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "284",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "align": "center",
+                                    "borderColor": "2848996",
+                                    "size": "17"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "230",
+                                "measuredH": "25",
+                                "x": "27",
+                                "y": "8",
+                                "properties": {
+                                    "text": "Прямые вложения в капитал",
+                                    "align": "center",
+                                    "size": "17"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "193",
+                "typeID": "__group__",
+                "zOrder": "50",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "1200",
+                "y": "688",
+                "properties": {
+                    "controlName": "102-type:safe"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "w": "116",
+                                "measuredW": "43",
+                                "measuredH": "25",
+                                "x": "12",
+                                "y": "8",
+                                "properties": {
+                                    "text": "SAFE",
+                                    "size": "17",
+                                    "align": "center"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "194",
+                "typeID": "__group__",
+                "zOrder": "54",
+                "measuredW": "209",
+                "measuredH": "40",
+                "w": "209",
+                "h": "40",
+                "x": "1130",
+                "y": "847",
+                "properties": {
+                    "controlName": "103-valuation:price"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "209",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "165",
+                                "measuredH": "25",
+                                "x": "22",
+                                "y": "8",
+                                "properties": {
+                                    "text": "Стоимость компании",
+                                    "size": "17",
+                                    "align": "center"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "195",
+                "typeID": "__group__",
+                "zOrder": "53",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "418",
+                "y": "956",
+                "properties": {
+                    "controlName": "103-valuation:post-money"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "w": "116",
+                                "measuredW": "89",
+                                "measuredH": "25",
+                                "x": "12",
+                                "y": "8",
+                                "properties": {
+                                    "text": "Post money",
+                                    "size": "17",
+                                    "align": "center"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "196",
+                "typeID": "__group__",
+                "zOrder": "52",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "418",
+                "y": "866",
+                "properties": {
+                    "controlName": "103-valuation:pre-money"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "w": "116",
+                                "measuredW": "83",
+                                "measuredH": "25",
+                                "x": "12",
+                                "y": "8",
+                                "properties": {
+                                    "text": "Pre money",
+                                    "size": "17",
+                                    "align": "center"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "197",
+                "typeID": "__group__",
+                "zOrder": "48",
+                "measuredW": "226",
+                "measuredH": "40",
+                "w": "226",
+                "h": "40",
+                "x": "418",
+                "y": "707",
+                "properties": {
+                    "controlName": "102-type:convertible-loan"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "226",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "align": "center",
+                                    "borderColor": "2848996",
+                                    "size": "17"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "w": "188",
+                                "measuredW": "178",
+                                "measuredH": "25",
+                                "x": "19",
+                                "y": "8",
+                                "properties": {
+                                    "text": "Конвертируемый заём",
+                                    "align": "center",
+                                    "size": "17"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "198",
+                "typeID": "__group__",
+                "zOrder": "47",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "418",
+                "y": "617",
+                "properties": {
+                    "controlName": "102-type:loam"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "w": "116",
+                                "measuredW": "41",
+                                "measuredH": "25",
+                                "x": "12",
+                                "y": "8",
+                                "properties": {
+                                    "text": "Заём",
+                                    "size": "17",
+                                    "align": "center"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "199",
+                "typeID": "__group__",
+                "zOrder": "44",
+                "measuredW": "170",
+                "measuredH": "40",
+                "w": "170",
+                "h": "40",
+                "x": "418",
+                "y": "488",
+                "properties": {
+                    "controlName": "101-investor:many"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "170",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "121",
+                                "measuredH": "25",
+                                "x": "24",
+                                "y": "8",
+                                "properties": {
+                                    "text": "Много физиков",
+                                    "size": "17",
+                                    "align": "center"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "200",
+                "typeID": "__group__",
+                "zOrder": "43",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "418",
+                "y": "398",
+                "properties": {
+                    "controlName": "101-investor:one"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "w": "116",
+                                "measuredW": "50",
+                                "measuredH": "25",
+                                "x": "12",
+                                "y": "8",
+                                "properties": {
+                                    "text": "Физик",
+                                    "size": "17",
+                                    "align": "center"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "201",
+                "typeID": "__group__",
+                "zOrder": "41",
+                "measuredW": "295",
+                "measuredH": "59",
+                "w": "295",
+                "h": "59",
+                "x": "753",
+                "y": "429",
+                "properties": {
+                    "controlName": "101-investor"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "295",
+                                "h": "59",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "w": "234",
+                                "measuredW": "137",
+                                "measuredH": "25",
+                                "x": "31",
+                                "y": "18",
+                                "properties": {
+                                    "text": "Найти инвестора",
+                                    "size": "17",
+                                    "align": "center",
+                                    "color": "472931"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "202",
+                "typeID": "__group__",
+                "zOrder": "33",
+                "measuredW": "340",
+                "measuredH": "59",
+                "w": "340",
+                "h": "59",
+                "x": "691",
+                "y": "633",
+                "properties": {
+                    "controlName": "102-type"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "340",
+                                "h": "59",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "260",
+                                "measuredH": "25",
+                                "x": "40",
+                                "y": "18",
+                                "properties": {
+                                    "text": "Определить формат инвестиций",
+                                    "align": "center",
+                                    "color": "472931",
+                                    "size": "17"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "203",
+                "typeID": "__group__",
+                "zOrder": "51",
+                "measuredW": "295",
+                "measuredH": "59",
+                "w": "295",
+                "h": "59",
+                "x": "723",
+                "y": "882",
+                "properties": {
+                    "controlName": "103-valuation"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "295",
+                                "h": "59",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "191",
+                                "measuredH": "25",
+                                "x": "52",
+                                "y": "18",
+                                "properties": {
+                                    "text": "Договориться об оценке",
+                                    "align": "center",
+                                    "color": "472931",
+                                    "size": "17"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "204",
+                "typeID": "__group__",
+                "zOrder": "38",
+                "measuredW": "357",
+                "measuredH": "59",
+                "w": "357",
+                "h": "59",
+                "x": "707",
+                "y": "260",
+                "properties": {
+                    "controlName": "100-aim"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "357",
+                                "h": "59",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "align": "center"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "257",
+                                "measuredH": "25",
+                                "x": "51",
+                                "y": "18",
+                                "properties": {
+                                    "text": "Определить назначение сделки",
+                                    "size": "17",
+                                    "align": "center",
+                                    "color": "472931"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "205",
+                "typeID": "__group__",
+                "zOrder": "40",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "418",
+                "y": "204",
+                "properties": {
+                    "controlName": "100-aim:cash-in"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "w": "116",
+                                "measuredW": "58",
+                                "measuredH": "25",
+                                "x": "12",
+                                "y": "8",
+                                "properties": {
+                                    "text": "Cash in",
+                                    "size": "17",
+                                    "align": "center"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "208",
+                "typeID": "__group__",
+                "zOrder": "39",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "1200",
+                "y": "204",
+                "properties": {
+                    "controlName": "100-aim:cash-out"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "w": "116",
+                                "measuredW": "69",
+                                "measuredH": "25",
+                                "x": "12",
+                                "y": "8",
+                                "properties": {
+                                    "text": "Cash out",
+                                    "size": "17",
+                                    "align": "center"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "283",
+                "typeID": "__group__",
+                "zOrder": "68",
+                "measuredW": "211",
+                "measuredH": "40",
+                "w": "211",
+                "h": "40",
+                "x": "420",
+                "y": "1353",
+                "properties": {
+                    "controlName": "105-dd:сonstitutional-documents"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "211",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "align": "center",
+                                    "borderColor": "2848996",
+                                    "size": "17"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "169",
+                                "measuredH": "25",
+                                "x": "21",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Уставные документы"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "284",
+                "typeID": "__group__",
+                "zOrder": "69",
+                "measuredW": "174",
+                "measuredH": "40",
+                "w": "174",
+                "h": "40",
+                "x": "420",
+                "y": "1427",
+                "properties": {
+                    "controlName": "105-dd:sha"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "174",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "align": "center",
+                                    "borderColor": "2848996",
+                                    "size": "17"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "118",
+                                "measuredH": "25",
+                                "x": "28",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Корп договоры"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "285",
+                "typeID": "__group__",
+                "zOrder": "70",
+                "measuredW": "230",
+                "measuredH": "40",
+                "w": "230",
+                "h": "40",
+                "x": "420",
+                "y": "1490",
+                "properties": {
+                    "controlName": "105-dd:clients-contracts"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "230",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "align": "center",
+                                    "borderColor": "2848996",
+                                    "size": "17"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "179",
+                                "measuredH": "25",
+                                "x": "25",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Договоры с клиентами"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "286",
+                "typeID": "__group__",
+                "zOrder": "71",
+                "measuredW": "225",
+                "measuredH": "40",
+                "w": "225",
+                "h": "40",
+                "x": "1107",
+                "y": "1344",
+                "properties": {
+                    "controlName": "105-dd:labor-contract"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "225",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "align": "center",
+                                    "borderColor": "2848996",
+                                    "size": "17"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "156",
+                                "measuredH": "25",
+                                "x": "35",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Трудовые договоры"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "287",
+                "typeID": "__group__",
+                "zOrder": "72",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "1189",
+                "y": "1403",
+                "properties": {
+                    "controlName": "105-dd:licenses"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "77",
+                                "measuredH": "25",
+                                "x": "31",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Лицензии"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "288",
+                "typeID": "__group__",
+                "zOrder": "73",
+                "measuredW": "266",
+                "measuredH": "40",
+                "w": "266",
+                "h": "40",
+                "x": "1064",
+                "y": "1459",
+                "properties": {
+                    "controlName": "105-dd:contractors"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "266",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "align": "center",
+                                    "borderColor": "2848996",
+                                    "size": "17"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "212",
+                                "measuredH": "25",
+                                "x": "27",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Договоры с контрагентами"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "289",
+                "typeID": "__group__",
+                "zOrder": "74",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "1189",
+                "y": "1515",
+                "properties": {
+                    "controlName": "105-dd:assets"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "58",
+                                "measuredH": "25",
+                                "x": "40",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Активы"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "290",
+                "typeID": "__group__",
+                "zOrder": "67",
+                "measuredW": "295",
+                "measuredH": "59",
+                "w": "295",
+                "h": "59",
+                "x": "720",
+                "y": "1384",
+                "properties": {
+                    "controlName": "105-dd"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "295",
+                                "h": "59",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "159",
+                                "measuredH": "25",
+                                "x": "68",
+                                "y": "18",
+                                "properties": {
+                                    "align": "center",
+                                    "color": "472931",
+                                    "size": "17",
+                                    "text": "Подготовиться к DD"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "291",
+                "typeID": "__group__",
+                "zOrder": "78",
+                "measuredW": "236",
+                "measuredH": "40",
+                "w": "236",
+                "h": "40",
+                "x": "408",
+                "y": "1750",
+                "properties": {
+                    "controlName": "106-deal:shares"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "236",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "align": "center",
+                                    "borderColor": "2848996",
+                                    "size": "17"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "165",
+                                "measuredH": "25",
+                                "x": "35",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Расчитать доли в УК"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "292",
+                "typeID": "__group__",
+                "zOrder": "77",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "414",
+                "y": "1694",
+                "properties": {
+                    "controlName": "106-deal:notary"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "75",
+                                "measuredH": "25",
+                                "x": "32",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Нотариус"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "293",
+                "typeID": "__group__",
+                "zOrder": "76",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "414",
+                "y": "1635",
+                "properties": {
+                    "controlName": "106-deal:terms"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "49",
+                                "measuredH": "25",
+                                "x": "45",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Сроки"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "294",
+                "typeID": "__group__",
+                "zOrder": "79",
+                "measuredW": "273",
+                "measuredH": "40",
+                "w": "273",
+                "h": "40",
+                "x": "1055",
+                "y": "1635",
+                "properties": {
+                    "controlName": "106-deal:refusals"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "273",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "align": "center",
+                                    "borderColor": "2848996",
+                                    "size": "17"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "209",
+                                "measuredH": "25",
+                                "x": "32",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Отказы других участников"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "295",
+                "typeID": "__group__",
+                "zOrder": "75",
+                "measuredW": "295",
+                "measuredH": "59",
+                "w": "295",
+                "h": "59",
+                "x": "703",
+                "y": "1685",
+                "properties": {
+                    "controlName": "106-deal"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "295",
+                                "h": "59",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "142",
+                                "measuredH": "25",
+                                "x": "76",
+                                "y": "18",
+                                "properties": {
+                                    "align": "center",
+                                    "color": "472931",
+                                    "size": "17",
+                                    "text": "Оформить сделку"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "296",
+                "typeID": "__group__",
+                "zOrder": "80",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "1189",
+                "y": "1694",
+                "properties": {
+                    "controlName": "106-deal:sale-contract"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "36",
+                                "measuredH": "25",
+                                "x": "51",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "ДКП"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "297",
+                "typeID": "__group__",
+                "zOrder": "81",
+                "measuredW": "198",
+                "measuredH": "40",
+                "w": "198",
+                "h": "40",
+                "x": "1139",
+                "y": "1750",
+                "properties": {
+                    "controlName": "106-deal:enter-equity"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "198",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "align": "center",
+                                    "borderColor": "2848996",
+                                    "size": "17"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "149",
+                                "measuredH": "25",
+                                "x": "24",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Заявление о входе"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "298",
+                "typeID": "__group__",
+                "zOrder": "83",
+                "measuredW": "186",
+                "measuredH": "40",
+                "w": "186",
+                "h": "40",
+                "x": "1145",
+                "y": "1817",
+                "properties": {
+                    "controlName": "106-deal:meeting"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "186",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "align": "center",
+                                    "borderColor": "2848996",
+                                    "size": "17"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "128",
+                                "measuredH": "25",
+                                "x": "29",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "ОСУ о принятии"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "299",
+                "typeID": "Arrow",
+                "zOrder": "21",
+                "w": "151",
+                "h": "10",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "550",
+                "y": "1138",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": 0.12571600000001126,
+                        "y": -0.4444139999999379
+                    },
+                    "p1": {
+                        "x": 0.5430277013884225,
+                        "y": -0.06164061975987649
+                    },
+                    "p2": {
+                        "x": 151.55195000000003,
+                        "y": 1.4423950000000332
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "300",
+                "typeID": "Arrow",
+                "zOrder": "28",
+                "w": "147",
+                "h": "56",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "550",
+                "y": "1138",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": 0.12571600000001126,
+                        "y": 56.55558600000006
+                    },
+                    "p1": {
+                        "x": 0.4949228313417431,
+                        "y": -0.0009032475287069819
+                    },
+                    "p2": {
+                        "x": 146.77651400000013,
+                        "y": 0.4116900000001351
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "301",
+                "typeID": "Arrow",
+                "zOrder": "46",
+                "w": "151",
+                "h": "106",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "548",
+                "y": "1145",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": -0.09884799999986171,
+                        "y": 106.05285900000013
+                    },
+                    "p1": {
+                        "x": 0.47261504543652677,
+                        "y": 0.06472457784788818
+                    },
+                    "p2": {
+                        "x": 150.77651400000013,
+                        "y": 0.4116900000001351
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "302",
+                "typeID": "Arrow",
+                "zOrder": "23",
+                "w": "211",
+                "h": "116",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "986",
+                "y": "1031",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": -0.09884799999986171,
+                        "y": 116.05285900000013
+                    },
+                    "p1": {
+                        "x": 0.4726150454365267,
+                        "y": 0.06472457784788817
+                    },
+                    "p2": {
+                        "x": 211.00343500000008,
+                        "y": -0.1987739999999576
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "303",
+                "typeID": "Arrow",
+                "zOrder": "34",
+                "w": "214",
+                "h": "49",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "982",
+                "y": "1098",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": -0.09884799999986171,
+                        "y": 49.052859000000126
+                    },
+                    "p1": {
+                        "x": 0.47261504543652655,
+                        "y": 0.06472457784788756
+                    },
+                    "p2": {
+                        "x": 213.8095760000001,
+                        "y": -0.34266999999999825
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "304",
+                "typeID": "Arrow",
+                "zOrder": "20",
+                "w": "212",
+                "h": "17",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "982",
+                "y": "1137",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": -0.09884799999986171,
+                        "y": 10.052859000000126
+                    },
+                    "p1": {
+                        "x": 0.6309920286422586,
+                        "y": 0.06730228117527595
+                    },
+                    "p2": {
+                        "x": 211.42185800000016,
+                        "y": 16.76870299999996
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "305",
+                "typeID": "Arrow",
+                "zOrder": "19",
+                "w": "208",
+                "h": "59",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "986",
+                "y": "1144",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": -0.30960800000002564,
+                        "y": 0.2178310000001602
+                    },
+                    "p1": {
+                        "x": 0.616348501314419,
+                        "y": 0.035792007590474545
+                    },
+                    "p2": {
+                        "x": 207.42185800000016,
+                        "y": 58.76870299999996
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "306",
+                "typeID": "Arrow",
+                "zOrder": "22",
+                "w": "224",
+                "h": "122",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "970",
+                "y": "1144",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": -0.30960800000002564,
+                        "y": 0.2178310000001602
+                    },
+                    "p1": {
+                        "x": 0.6192441597038618,
+                        "y": 0.03288602575244863
+                    },
+                    "p2": {
+                        "x": 223.42185800000016,
+                        "y": 121.9914490000001
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "307",
+                "typeID": "Arrow",
+                "zOrder": "16",
+                "w": "100",
+                "h": "37",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "626",
+                "y": "1375",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": 0.33883300000002237,
+                        "y": -0.36738199999990684
+                    },
+                    "p1": {
+                        "x": 0.4726150454365267,
+                        "y": 0.06472457784788818
+                    },
+                    "p2": {
+                        "x": 100.77651400000013,
+                        "y": 36.411690000000135
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "308",
+                "typeID": "Arrow",
+                "zOrder": "17",
+                "w": "145",
+                "h": "25",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "592",
+                "y": "1420",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": -0.2830779999999322,
+                        "y": 25.070298999999977
+                    },
+                    "p1": {
+                        "x": 0.4724804580878472,
+                        "y": 0.07108272841384258
+                    },
+                    "p2": {
+                        "x": 144.77651400000013,
+                        "y": 1.4116900000001351
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "309",
+                "typeID": "Arrow",
+                "zOrder": "18",
+                "w": "79",
+                "h": "90",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "644",
+                "y": "1416",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": -0.17170499999997446,
+                        "y": 90.73254400000019
+                    },
+                    "p1": {
+                        "x": 0.46647612135263855,
+                        "y": -0.1006683133558869
+                    },
+                    "p2": {
+                        "x": 79.04141200000004,
+                        "y": 0.4176830000001246
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "310",
+                "typeID": "Arrow",
+                "zOrder": "12",
+                "w": "96",
+                "h": "54",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "1015",
+                "y": "1365",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": -0.17170499999997446,
+                        "y": 53.73254400000019
+                    },
+                    "p1": {
+                        "x": 0.5411403979428219,
+                        "y": 0.0449251972330512
+                    },
+                    "p2": {
+                        "x": 96.04558700000007,
+                        "y": 0.08174600000006649
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "311",
+                "typeID": "Arrow",
+                "zOrder": "13",
+                "w": "194",
+                "h": "12",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "1008",
+                "y": "1416",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": -0.17170499999997446,
+                        "y": 12.732544000000189
+                    },
+                    "p1": {
+                        "x": 0.5411403979428219,
+                        "y": 0.04492519723305121
+                    },
+                    "p2": {
+                        "x": 193.7788710000002,
+                        "y": 6.386977999999999
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "312",
+                "typeID": "Arrow",
+                "zOrder": "14",
+                "w": "66",
+                "h": "50",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "1008",
+                "y": "1428",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": -0.17170499999997446,
+                        "y": -0.26745599999981096
+                    },
+                    "p1": {
+                        "x": 0.5551149376593892,
+                        "y": -0.14597734023964362
+                    },
+                    "p2": {
+                        "x": 66.03595800000016,
+                        "y": 49.30449199999998
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "313",
+                "typeID": "Arrow",
+                "zOrder": "15",
+                "w": "185",
+                "h": "106",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "1013",
+                "y": "1430",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": 0.14914900000007947,
+                        "y": -0.449867999999924
+                    },
+                    "p1": {
+                        "x": 0.5541225818568836,
+                        "y": 0.16978651474362952
+                    },
+                    "p2": {
+                        "x": 185.19729400000006,
+                        "y": 105.80358300000012
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "314",
+                "typeID": "Arrow",
+                "zOrder": "9",
+                "w": "166",
+                "h": "65",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "550",
+                "y": "1655",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": -0.06814299999996365,
+                        "y": 0.18948300000010931
+                    },
+                    "p1": {
+                        "x": 0.4724804580878473,
+                        "y": 0.07108272841384262
+                    },
+                    "p2": {
+                        "x": 165.77651400000013,
+                        "y": 65.41169000000014
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "315",
+                "typeID": "Arrow",
+                "zOrder": "10",
+                "w": "185",
+                "h": "13",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "540",
+                "y": "1711",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": 0.3809850000000097,
+                        "y": 1.464010000000144
+                    },
+                    "p1": {
+                        "x": 0.46815167753149156,
+                        "y": 0.030004075419799065
+                    },
+                    "p2": {
+                        "x": 185.77651400000013,
+                        "y": 13.411690000000135
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "316",
+                "typeID": "Arrow",
+                "zOrder": "11",
+                "w": "76",
+                "h": "51",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "634",
+                "y": "1721",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": 0.3809850000000097,
+                        "y": 50.464010000000144
+                    },
+                    "p1": {
+                        "x": 0.46815167753149156,
+                        "y": 0.030004075419799093
+                    },
+                    "p2": {
+                        "x": 75.90896300000009,
+                        "y": -0.14827199999990626
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "317",
+                "typeID": "Arrow",
+                "zOrder": "5",
+                "w": "61",
+                "h": "56",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "998",
+                "y": "1656",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": 0.3809850000000097,
+                        "y": 56.464010000000144
+                    },
+                    "p1": {
+                        "x": 0.39385568371872715,
+                        "y": 0.13083674857977928
+                    },
+                    "p2": {
+                        "x": 61.70965000000001,
+                        "y": 0.3833420000000842
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "318",
+                "typeID": "Arrow",
+                "zOrder": "6",
+                "w": "205",
+                "h": "6",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "989",
+                "y": "1711",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": 0.3809850000000097,
+                        "y": 5.464010000000144
+                    },
+                    "p1": {
+                        "x": 0.43891120884082413,
+                        "y": -0.014676767775333265
+                    },
+                    "p2": {
+                        "x": 205.61571700000013,
+                        "y": 0.30085600000006707
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "319",
+                "typeID": "Arrow",
+                "zOrder": "7",
+                "w": "145",
+                "h": "46",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "999",
+                "y": "1726",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": 0.3809850000000097,
+                        "y": 0.4640100000001439
+                    },
+                    "p1": {
+                        "x": 0.4389112088408242,
+                        "y": -0.014676767775333275
+                    },
+                    "p2": {
+                        "x": 145.47363900000005,
+                        "y": 46.18766500000015
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "320",
+                "typeID": "Arrow",
+                "zOrder": "8",
+                "w": "175",
+                "h": "111",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "983",
+                "y": "1726",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": 0.3809850000000097,
+                        "y": 0.4640100000001439
+                    },
+                    "p1": {
+                        "x": 0.4389112088408242,
+                        "y": -0.014676767775333194
+                    },
+                    "p2": {
+                        "x": 175.7999470000002,
+                        "y": 111.84991000000014
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "321",
+                "typeID": "Arrow",
+                "zOrder": "84",
+                "w": "173",
+                "h": "26",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "555",
+                "y": "888",
+                "properties": {
+                    "curvature": "0",
+                    "stroke": "dotted",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "color": "10470904",
+                    "p0": {
+                        "x": -0.2927069999998366,
+                        "y": -0.46185399999990295
+                    },
+                    "p1": {
+                        "x": 0.5430277013884224,
+                        "y": -0.061640619759876454
+                    },
+                    "p2": {
+                        "x": 172.81684800000016,
+                        "y": 22.221467000000075
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "322",
+                "typeID": "Arrow",
+                "zOrder": "1",
+                "w": "65",
+                "h": "213",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "806",
+                "y": "929",
+                "properties": {
+                    "curvature": "0",
+                    "color": "13421772",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "p0": {
+                        "x": 64.547775,
+                        "y": -0.44131699999999796
+                    },
+                    "p1": {
+                        "x": 0.6147665433070375,
+                        "y": -0.23759611990394777
+                    },
+                    "p2": {
+                        "x": 42.94512200000008,
+                        "y": 213.058313
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "323",
+                "typeID": "Arrow",
+                "zOrder": "2",
+                "w": "33",
+                "h": "227",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "848",
+                "y": "1170",
+                "properties": {
+                    "curvature": "0",
+                    "color": "13421772",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "p0": {
+                        "x": 26.547775,
+                        "y": -0.44131699999999796
+                    },
+                    "p1": {
+                        "x": 0.6019018249365251,
+                        "y": 0.09106673517031683
+                    },
+                    "p2": {
+                        "x": 0.39660700000013094,
+                        "y": 226.1220800000001
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "324",
+                "typeID": "Arrow",
+                "zOrder": "3",
+                "w": "24",
+                "h": "259",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "825",
+                "y": "1430",
+                "properties": {
+                    "curvature": "0",
+                    "color": "13421772",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "p0": {
+                        "x": 23.547775,
+                        "y": -0.44131699999999796
+                    },
+                    "p1": {
+                        "x": 0.6604625732562891,
+                        "y": -0.06143814258338676
+                    },
+                    "p2": {
+                        "x": 12.65187600000013,
+                        "y": 258.6175350000001
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "325",
+                "typeID": "Arrow",
+                "zOrder": "4",
+                "w": "47",
+                "h": "225",
+                "measuredW": "150",
+                "measuredH": "100",
+                "x": "853",
+                "y": "1721",
+                "properties": {
+                    "curvature": "0",
+                    "color": "13421772",
+                    "leftArrow": "false",
+                    "rightArrow": "false",
+                    "p0": {
+                        "x": -0.45222499999999854,
+                        "y": -0.44131699999999796
+                    },
+                    "p1": {
+                        "x": 0.4884734147184874,
+                        "y": 0.20081258040348188
+                    },
+                    "p2": {
+                        "x": 3.7536200000001827,
+                        "y": 224.29722000000015
+                    },
+                    "size": "17"
+                }
+            },
+            {
+                "ID": "326",
+                "typeID": "__group__",
+                "zOrder": "57",
+                "measuredW": "295",
+                "measuredH": "59",
+                "w": "295",
+                "h": "59",
+                "x": "691",
+                "y": "1112",
+                "properties": {
+                    "controlName": "104-terms"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "295",
+                                "h": "59",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "141",
+                                "measuredH": "25",
+                                "x": "77",
+                                "y": "18",
+                                "properties": {
+                                    "align": "center",
+                                    "color": "472931",
+                                    "size": "17",
+                                    "text": "Обсудить условия"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "327",
+                "typeID": "__group__",
+                "zOrder": "62",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "1189",
+                "y": "1015",
+                "properties": {
+                    "controlName": "104-terms:noncompete"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "100",
+                                "measuredH": "25",
+                                "x": "19",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Noncompete"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "328",
+                "typeID": "__group__",
+                "zOrder": "63",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "1189",
+                "y": "1074",
+                "properties": {
+                    "controlName": "104-terms:ratchet"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "61",
+                                "measuredH": "25",
+                                "x": "39",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Ratchet"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "329",
+                "typeID": "__group__",
+                "zOrder": "64",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "1189",
+                "y": "1130",
+                "properties": {
+                    "controlName": "104-terms:prorata"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "61",
+                                "measuredH": "25",
+                                "x": "39",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Pro rata"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "330",
+                "typeID": "__group__",
+                "zOrder": "65",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "1189",
+                "y": "1186",
+                "properties": {
+                    "controlName": "104-terms:dragalong"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "85",
+                                "measuredH": "25",
+                                "x": "27",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Drag along"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "331",
+                "typeID": "__group__",
+                "zOrder": "66",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "1189",
+                "y": "1242",
+                "properties": {
+                    "controlName": "104-terms:tagalong"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "75",
+                                "measuredH": "25",
+                                "x": "32",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Tag along"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "332",
+                "typeID": "__group__",
+                "zOrder": "61",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "419",
+                "y": "1233",
+                "properties": {
+                    "controlName": "104-terms:antidillution"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "89",
+                                "measuredH": "25",
+                                "x": "25",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Antidillution"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "333",
+                "typeID": "__group__",
+                "zOrder": "60",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "419",
+                "y": "1177",
+                "properties": {
+                    "controlName": "104-terms:liqpref"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "85",
+                                "measuredH": "25",
+                                "x": "27",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Ликпрефы"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "334",
+                "typeID": "__group__",
+                "zOrder": "59",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "419",
+                "y": "1121",
+                "properties": {
+                    "controlName": "104-terms:vesting"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "63",
+                                "measuredH": "25",
+                                "x": "38",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Вестинг"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "335",
+                "typeID": "__group__",
+                "zOrder": "58",
+                "measuredW": "139",
+                "measuredH": "40",
+                "w": "139",
+                "h": "40",
+                "x": "419",
+                "y": "1062",
+                "properties": {
+                    "controlName": "104-terms:options"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "139",
+                                "h": "40",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center",
+                                    "borderColor": "2848996"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "73",
+                                "measuredH": "25",
+                                "x": "33",
+                                "y": "8",
+                                "properties": {
+                                    "align": "center",
+                                    "size": "17",
+                                    "text": "Опционы"
+                                }
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "ID": "336",
+                "typeID": "__group__",
+                "zOrder": "82",
+                "measuredW": "295",
+                "measuredH": "59",
+                "w": "295",
+                "h": "59",
+                "x": "720",
+                "y": "1923",
+                "properties": {
+                    "controlName": "107-sha"
+                },
+                "children": {
+                    "controls": {
+                        "control": [
+                            {
+                                "ID": "0",
+                                "typeID": "TextArea",
+                                "zOrder": "0",
+                                "w": "295",
+                                "h": "59",
+                                "measuredW": "200",
+                                "measuredH": "140",
+                                "x": "0",
+                                "y": "0",
+                                "properties": {
+                                    "size": "17",
+                                    "align": "center"
+                                }
+                            },
+                            {
+                                "ID": "1",
+                                "typeID": "Label",
+                                "zOrder": "1",
+                                "measuredW": "189",
+                                "measuredH": "25",
+                                "x": "53",
+                                "y": "18",
+                                "properties": {
+                                    "align": "center",
+                                    "color": "472931",
+                                    "size": "17",
+                                    "text": "Составить корп договор"
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+
+    },
+      "attributes": {
+"name": "investments",
+"order": 1000076.8179159599,
+"parentID": null,
+"notes": ""
+},
+"branchID": "Master",
+"resourceID": "A451988B-49CC-410A-A8B7-C129C14D5D14",
+"mockupH": "3449",
+"mockupW": "1216",
+"measuredW": "1500",
+"measuredH": "3550",
+"version": "1.0"
+  }
+}
+

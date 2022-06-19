@@ -80,7 +80,7 @@ Roadmaps are being made interactive and have been moved to website.
 
 Here is the list of available roadmaps with more being actively worked upon.
 
-- [Frontend Roadmap](https://roadmap.sh/frontend)
+- [Frontend Roadmap](https://roadmap.sh/investments)
 - [Backend Roadmap](https://roadmap.sh/backend)
 - [DevOps Roadmap](https://roadmap.sh/devops)
 - [React Roadmap](https://roadmap.sh/react)

@@ -59,7 +59,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ChakraProvider theme={roadmapTheme}>
       <Global styles={GlobalStyles} />
-      <StickyBanner />
+      
       <Component {...pageProps} />
     </ChakraProvider>
   );

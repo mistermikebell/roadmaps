@@ -114,7 +114,7 @@ export function InteractiveRoadmapRenderer(props: RoadmapProps) {
   }
 
   let minHeight: string[] = [];
-  if (roadmap.id === 'frontend') {
+  if (roadmap.id === 'investments') {
     minHeight = ['970px', '970px', '2100px', '2800px', '2800px'];
   }
 

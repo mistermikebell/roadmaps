@@ -5,8 +5,8 @@ import { makeSVGElement } from './utils';
  * @param {Object} wireframe - Wireframe JSON
  * @param {Object} options - Config object
  * @param {number} [options.padding=5] - Padding for the SVG element
- * @param {string} [options.fontFamily=balsamiq]
- * @param {string} [options.fontURL=https://fonts.gstatic.com/s/balsamiqsans/v3/P5sEzZiAbNrN8SB3lQQX7Pncwd4XIA.woff2]
+ * @param {string} [options.fontFamily=Rubik]
+ * @param {string} [options.fontURL=https://fonts.googleapis.com/css2?family=Rubik&display=swap]
  * @returns {Promise} Resolves SVG element
  */
 export async function wireframeJSONToSVG(
@@ -15,8 +15,8 @@ export async function wireframeJSONToSVG(
 ) {
   options = {
     padding: 5,
-    fontFamily: 'balsamiq',
-    fontURL: '/fonts/balsamiq.woff2',
+    fontFamily: 'Geometria',
+    fontURL: '/fonts/Geometria-Medium.woff2',
     ...options,
   };
 
@@ -37,7 +37,7 @@ export async function wireframeJSONToSVG(
     xmlns: 'http://www.w3.org/2000/svg',
     'xmlns:xlink': 'http://www.w3.org/1999/xlink',
     viewBox: `${x} ${y} ${width} ${height}`,
-    style: 'font-family: balsamiq',
+    style: 'font-family: Geometria',
   });
 
   let renderer = new Renderer(svgRoot, options.fontFamily!);
